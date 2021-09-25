@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+div#tv-radio {
+    width: 900px;
+    height: 580px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+audio#musica {
+    display: block;
+    position: relative;
+    left: 10px;
+    top: 360px;
+    width: 300px;
+}
+
+iframe {
+    display: block;
+    position: relative;
+    left: 10px;
+    bottom: 50px;
+    width: 440;
+}
